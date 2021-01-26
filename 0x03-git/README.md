@@ -1,1 +1,1 @@
-git and github
+git and git hub project 
